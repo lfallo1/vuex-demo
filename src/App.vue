@@ -3,7 +3,7 @@
         <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <router-link to="/" exact class="navbar-brand"><strong>Vuex Inc.</strong></router-link>
+                    <router-link to="/" exact class="navbar-brand"><strong>Vuex Incorporated</strong></router-link>
                 </div>
 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -11,7 +11,7 @@
 
                     <div class="nav navbar-nav navbar-right">
                         <button v-if="!isLoggedIn" @click="login" class="btn btn-success">
-                            Log in
+                            Log in now or never
                         </button>
                         <button v-else @click="logout" class="btn btn-primary">
                             Log out

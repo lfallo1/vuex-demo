@@ -1,0 +1,20 @@
+{
+  "name": "codingexplained-vuex",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "Bo Andersen <info@codingexplained.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lfallo1/vuex-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
